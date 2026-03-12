@@ -2,7 +2,7 @@ Cinema Ticket Revenue Calculator
 <p align="center">
 <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Logic-[Contextual--Logic]-blueviolet?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Difficulty-[Easy/Moderate/Hard]-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Difficulty-[Easy]-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
 </p>
 
